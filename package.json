@@ -32,14 +32,8 @@
     "optimist": "0.6.1"
   },
   "optionalDependencies":{
-    "amqplib": "0.3.0",
-    "zmq": "2.8.x",
     "moment": "2.8.3",
-    "redis": "0.12.x",
-    "oniguruma": "3.0.4",
-    "msgpack": "0.2.4",
-    "geoip-lite": "1.1.x",
-    "proxying-agent": "0.1.x"
+    "redis": "0.12.x"
   },
   "directories": {
     "test": "./test",
